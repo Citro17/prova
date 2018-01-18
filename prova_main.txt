@@ -1,0 +1,3 @@
+Qua inizia il lavoro
+Questa è la prima versione
+Modifica leggermente anche il file 747_readme.txt (di cui però non farò l'add).
